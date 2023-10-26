@@ -1,6 +1,6 @@
-import tw from "tailwind-styled-components"
+import tw from 'tailwind-styled-components'
 
- export const Botão = tw.a`
+export const Botão = tw.a`
     block 
     shadow-sm 
     rounded-md 

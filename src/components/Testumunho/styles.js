@@ -1,14 +1,14 @@
-import tw from "tailwind-styled-components"
+import tw from 'tailwind-styled-components'
 
 export const Card = tw.div`
     bg-gray-300
-    shadow-xl 
-    p-8 
-    rounded-lg 
-    m-6 
-    overflow-hidden 
-    md:flex 
-    md:p-0 
+    shadow-xl
+    p-8
+    rounded-lg
+    m-6
+    overflow-hidden
+    md:flex
+    md:p-0
     md:h-auto
 `
 
@@ -39,7 +39,7 @@ export const InfoAluno = tw.div`
 `
 
 export const NomeAluno = tw.div`
-    text-green-500 
+    text-green-500
     font-bold
 `
 
@@ -47,4 +47,3 @@ export const CursoAluno = tw.div`
     text-green-700
     font-bold
 `
-
